@@ -1,3 +1,4 @@
+
 ## Hello, hello! 👋
 
 I'm **Antonio**! A software developer based in the beautiful city of Innsbruck.
@@ -14,6 +15,6 @@ Want to talk about programming or maybe want to hire me for a project?
 
 Feel free to ping me on social media anytime!
 
-**[Twitter](https://twitter.com/antoniopkvc) / [LinkedIn](https://www.linkedin.com/in/antoniopekeljevic/)**
-
-**[My Dev Blog](https://blog.antoniopk.com)**
+[![twitter](https://github.com/ToneyPK/ToneyPK/assets/2219701/cdfa86e6-baca-48b6-af94-4e297af540ec)](https://twitter.com/antoniopkvc)
+[![linkedin](https://github.com/ToneyPK/ToneyPK/assets/2219701/5bdda40f-23c5-49e6-9327-fb37c23d0eac)](https://www.linkedin.com/in/antoniopekeljevic/)
+[![blog](https://github.com/ToneyPK/ToneyPK/assets/2219701/4ee8ce80-b44b-46c2-badc-03b6beaca222)](https://blog.antoniopk.com)
