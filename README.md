@@ -15,7 +15,7 @@ Want to talk about programming or maybe want to hire me for a project?
 
 Feel free to ping me on social media anytime!
 
-[![twitter](https://github.com/ToneyPK/ToneyPK/assets/2219701/cdfa86e6-baca-48b6-af94-4e297af540ec 'twitter logo')](https://twitter.com/antoniopkvc)
-[![linkedin](https://github.com/ToneyPK/ToneyPK/assets/2219701/5bdda40f-23c5-49e6-9327-fb37c23d0eac)](https://www.linkedin.com/in/antoniopekeljevic/)
-[![blog](https://github.com/ToneyPK/ToneyPK/assets/2219701/4ee8ce80-b44b-46c2-badc-03b6beaca222)](https://blog.antoniopk.com)
-[![resume](https://github.com/ToneyPK/ToneyPK/assets/2219701/ddd47823-1583-415d-8387-902ba21baab6)](https://blog.antoniopk.com)
+**[Twitter](https://twitter.com/antoniopkvc) /
+[LinkedIn](https://www.linkedin.com/in/antoniopekeljevic/) /
+[My Blog](https://blog.antoniopk.com) / 
+[Resume](https://drive.google.com/file/d/1BR_Q-5IP-0qPYpLSH26GMr3X-8amb34K/view?usp=drive_link)**
