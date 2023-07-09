@@ -6,7 +6,7 @@ I have worked on numerous web & mobile applications, UI libraries with strict ac
 Aside from working on client projects, contributing to open source is what I enjoy the most.
 
 Programming language that I'm skilled in (and enjoy 😄) the most is **JavaScript/TypeScript**. I also have experience with **Java** but I started leaning towards JavaScript more and more. 
-**Angular** is the framework I work the most with and tajt I love but **React** and **Vue.js** are not strangers either.
+**Angular** is the framework I work the most with and that I love but **React** and **Vue.js** are not strangers either.
 
 I also love working on the Back-End, especially with **Nest.js**. One of my first frameworks that I learned was **Spring** but I haven't really touched it for a while.
 
